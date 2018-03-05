@@ -4,6 +4,7 @@ import grails.gorm.services.Service
 
 @Service(Site)
 interface SiteService {
+    //santi estuvo aquí
 
     Site get(Serializable id)
 
