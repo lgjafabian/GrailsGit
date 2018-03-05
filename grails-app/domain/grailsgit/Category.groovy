@@ -5,7 +5,7 @@ class Category {
     String name
     static belongsTo= [site: Site]
 
-    //punto b sdljvcbdhsajlvdglchsdjchvgbckzdn<bc ,dhjv,kbchchkdhjkshkuwehfcajksulbiwyO9GCYBHKIRUCBLIwerui
+    //punto b
     String urlImage
     Integer visits
 
