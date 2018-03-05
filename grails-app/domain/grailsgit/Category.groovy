@@ -1,6 +1,7 @@
 package grailsgit
 
 class Category {
+//santi estuvo aquí
 
     String name
 
