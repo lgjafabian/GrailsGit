@@ -1,6 +1,7 @@
 package grailsgit
 
 class Site {
+//santi estuvo aquí
 
     String name
 
