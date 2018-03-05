@@ -20,7 +20,7 @@
 <div class="container">
     <h1>LOGIN</h1>
 
-    <g:form method="post" action="index">
+    <g:form method="post" controller="GrailsGit" action="index">
         <div class="panel panel-default">
             <div class="panel-body">
                 <div class="form-group">

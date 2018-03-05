@@ -32,7 +32,8 @@ class GrailsGitController {
 
         if (usuario == "admin"){
             if (contrasenia == "123"){
-                render (view: "list")
+               redirect(controller: "grailsGit", action: "list")
+               //render (view: "list", controller: "grailsGit")
             }
         } else {
             render  (view: "index")
